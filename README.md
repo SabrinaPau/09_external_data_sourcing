@@ -10,7 +10,7 @@ In this repository you're going to
 6. Learn how to making multiple calls to the API with different parameters in an automated way
 
 ## Objective
-As a Data Analyst it is necessary to be able to import data from different data sources.
+As a Data Analyst it is necessary to be able to import data from different data sources. Data is often stored in APIs therefore being able to connect to an API and retrieve its data is an invaluable skill.
 
 ## Task 
 
