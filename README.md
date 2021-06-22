@@ -3,7 +3,7 @@
 In this repository you're going to
 
 1. Learn about OpenWeather API's available data and limitations
-2. Sign-up to the OpenWeather API and use your API key to make your first call to the OpenWeather API
+2. Use your API key to make your first call to the OpenWeather API
 3. Learn how to adjust your API calls to get the data you need
 4. Learn how to access and extract data from your JSON
 5. Learn how to flatten nested JSON data and transform it into a DataFrame for future analysis
