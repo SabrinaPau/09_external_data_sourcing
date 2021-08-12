@@ -16,4 +16,4 @@ conn = psycopg2.connect(host=host,
 
 # sqlalchemy engine for writing data to a database
 from sqlalchemy import create_engine    
-engine = create_engine('postgresql+psycopg2://' + user + ':' + host + ':' + port + '/' + database)
+engine = create_engine(f'postgres+psycopg2://{user}:{password}@{host}:{port}/{database}')
