@@ -26,7 +26,7 @@ In order to make the best decisions, data is vital. Having extensive and detaile
 6. Make multiple calls to the API with different parameters in an automated way
 <br></br>
 ## Tasks
-- Before you start, activate your nf_base environment. 
+- Before you start, activate your 'sql-practice' environment. 
 
 Please work through all the notebooks.
 <!--in this particular order:
