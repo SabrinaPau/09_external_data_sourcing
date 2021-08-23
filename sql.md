@@ -1,3 +1,4 @@
+# Rename this file to sql.py
 # Fill in credentials
 host='__________'
 port='__________'
