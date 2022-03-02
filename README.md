@@ -26,9 +26,11 @@ In order to make the best decisions, data is vital. Having extensive and detaile
 6. Make multiple calls to the API with different parameters in an automated way
 <br></br>
 ## Tasks
-- Before you start, activate your 'sql-practice' environment. 
+- Before you start, activate your  environment and install the following:   
+```conda install sqlalchemy```.
+- Copy the files sql.py and .env from the 'Internal Data Sourcing' repository in this folder.
+- Please work through all the notebooks.
 
-Please work through all the notebooks.
 <!--in this particular order:
 
 {}> 
