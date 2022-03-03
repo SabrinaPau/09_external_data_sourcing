@@ -136,5 +136,4 @@ dmypy.json
 
 **/.DS_Store
 
-# data folders
-data/
+# data folders added in notebook
