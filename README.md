@@ -17,15 +17,16 @@ In order to make the best decisions, data is vital. Having extensive and detaile
 5. Subset aircraft data based on existing data in database
 6. Store data into an existing database
 <br></br>
-## Part 3: Getting started with Openweather API
-1. OpenWeather API's available data and limitations
+## Part 3: Getting Started with API
+1. Learn about OpenWeather API's available data and limitations
+2. Sign-up to the OpenWeather API (if not already done yet)
 <br></br>
-## Part 4: Get weather data from API in Python
+## Part 4: Get Weather from API
 1. Use your API key to make your first call to the OpenWeather API
-2. Adjust your API calls to get the data you need
-3. Access and extract data from your JSON
-4. Flatten nested JSON data and transform it into a DataFrame for future analysis
-5. Make multiple calls to the API with different parameters in an automated way
+2. Learn how to adjust your API calls to get the data you need
+3. Learn how to access and extract data from your JSON
+4. Learn how to flatten nested JSON data and transform it into a DataFrame for future analysis
+5. Learn how to make multiple calls to the API with different parameters in an automated way
 <br></br>
 ## Tasks
 - Before you start, activate your  environment and install the following:   
