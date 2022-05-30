@@ -29,9 +29,12 @@ In order to make the best decisions, data is vital. Having extensive and detaile
 5. Learn how to make multiple calls to the API with different parameters in an automated way
 <br></br>
 ## Tasks
-- Before you start, activate your  environment and install the following:   
-```conda install sqlalchemy```.
-- Copy the files sql.py and .env from the 'Internal Data Sourcing' repository in this folder.
+- Before you start, activate your nf_sql environment 
+- Copy your versions of the files ```sql_functions.py``` and ```.env``` from the 'Internal Data Sourcing' repository in this folder.
+for example using the terminal:
+```bash
+cp ../da-internal_data_sourcing/notebooks/.env .
+```
 - Please work through all the notebooks.
 
 <!--in this particular order:
