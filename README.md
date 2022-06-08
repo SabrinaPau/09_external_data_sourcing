@@ -5,6 +5,14 @@ In this repository you're going to learn how to import external data and save it
 ## Why external data sourcing?
 In order to make the best decisions, data is vital. Having extensive and detailed data available enables sophisticated analyses and allows to predict the future more accurately. To facilitate this, a Data Analyst needs to be able to not only work with internal data but also with data from different external sources. They need to be able to access different data storages such as other databases or APIs, import, clean and prepare the data and ultimately make it available to all relevant stakeholders by adding it to existing internal data sources.
 <br></br>
+## Tasks
+- Before you start, activate your nf_sql environment 
+- Copy your versions of the files ```sql_functions.py``` and ```.env``` from the 'Internal Data Sourcing' repository in this folder.
+for example using the terminal:
+```bash
+cp ../da-internal_data_sourcing/notebooks/.env .
+```
+- Please work through all the notebooks.
 ## Part 1: Add carriers to the database
 1. Import data that is stored online in a csv directly from the web into python
 2. Store the data into an existing database
@@ -28,19 +36,5 @@ In order to make the best decisions, data is vital. Having extensive and detaile
 4. Learn how to flatten nested JSON data and transform it into a DataFrame for future analysis
 5. Learn how to make multiple calls to the API with different parameters in an automated way
 <br></br>
-## Tasks
-- Before you start, activate your  environment and install the following:   
-```conda install sqlalchemy```.
-- Copy the files sql.py and .env from the 'Internal Data Sourcing' repository in this folder.
-- Please work through all the notebooks.
 
-<!--in this particular order:
-
-{}> 
-
-Keep in mind, you succeed better as a team. There are NO stupid questions! If you already feel comfortable with the concepts, you might even learn more from teaching them!
-
-<!--**Find some help/support here**:
-
-[](links)>
 
