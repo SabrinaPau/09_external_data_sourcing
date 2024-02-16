@@ -6,7 +6,25 @@ In this repository you're going to learn how to import external data and save it
 In order to make the best decisions, data is vital. Having extensive and detailed data available enables sophisticated analyses and allows to predict the future more accurately. To facilitate this, a Data Analyst needs to be able to not only work with internal data but also with data from different external sources. They need to be able to access different data storages such as other databases or APIs, import, clean and prepare the data and ultimately make it available to all relevant stakeholders by adding it to existing internal data sources.
 <br></br>
 ## Tasks
-- Before you start, activate your nf_sql environment 
+### Set up your environment
+#### For the Data Analytics Full-Time Bootcamp:
+- Before you start, activate your nf_sql environment.
+#### For the Data Part-Time Bootcamp:
+- Install the virtual environment and the required packages by following commands:
+
+    ```BASH
+    pyenv local 3.11.3
+    python -m venv .venv
+    source .venv/bin/activate
+    pip install --upgrade pip
+    pip install jupyterlab
+    pip install pandas==2.0.1
+    pip install python-dotenv
+    pip install sqlalchemy==1.4.39
+    pip install psycopg2-binary
+    ```
+---
+### Important: sql_functions.py and .env
 - Copy your versions of the files ```sql_functions.py``` and ```.env``` from the 'Internal Data Sourcing' repository in this folder.
 for example using the terminal:
 ```bash
